@@ -15,3 +15,6 @@
 
 # Godeps vendor
 vendor/
+
+# jetbrains
+.idea
